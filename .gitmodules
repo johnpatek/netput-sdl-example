@@ -1,0 +1,6 @@
+[submodule "netput"]
+	path = netput
+	url = https://github.com/johnpatek/netput
+[submodule "SDL"]
+	path = SDL
+	url = https://github.com/libsdl-org/SDL
